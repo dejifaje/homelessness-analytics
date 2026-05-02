@@ -63,7 +63,6 @@ E. Data & insights teams
 SUMMARY 
 This project provides a complete analytical toolkit for understanding homelessness trends, forecasting future demand, and evaluating the financial impact of prevention strategies. It combines data science, forecasting, economics, and public‑sector insight into a single, reproducible workflow.
 
-# Homelessness Analytics Project
 This project analyses homelessness trends, forecasting, cost modelling, prevention scenarios, and ROI modelling using R.
 
 ## Project Structure
@@ -76,4 +75,3 @@ homelessness-analytics/
 │   └── tables/               # Saved summary tables (year‑on‑year change summary,costs, counterfactuals, ROI)
 ├── README.md                 # Project documentation
 └── analysis.R                # Main analysis script
-
