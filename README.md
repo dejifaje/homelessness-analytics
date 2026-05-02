@@ -60,6 +60,17 @@ C. Children’s services
 D. Public health 
 E. Data & insights teams
 
+HOW TO RUN 
+This repository contains the full analysis code used for trending, forecasting, cost modelling, and ROI calculations.
+The analysis can be reproduced using the analysis.R script; however, the underlying datasets are not included in this repository due to data‑sharing restrictions.
+
+A.Install the required R packages
+B. Place the authorised dataset in the data/ folder
+C. Open and run analysis.R
+D. Outputs will be generated in outputs/plots and outputs/tables
+
+Users without access to the original dataset can still review the code, workflow, and example outputs.
+
 SUMMARY 
 This project provides a complete analytical toolkit for understanding homelessness trends, forecasting future demand, and evaluating the financial impact of prevention strategies. It combines data science, forecasting, economics, and public‑sector insight into a single, reproducible workflow.
 
